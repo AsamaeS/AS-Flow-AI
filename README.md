@@ -235,7 +235,7 @@ MIT License - See LICENSE file for details
 
 ## 👨‍💻 Author
 
-**FocusFlow Team**
+**ASMAE**
 
 Built with ❤️ using modern web technologies.
 
